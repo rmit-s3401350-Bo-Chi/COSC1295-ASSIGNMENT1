@@ -1,7 +1,9 @@
 
 import java.util.*;
-
-
+/**
+*
+*@author s3401350 bo chi
+*/
 public class Adult extends Person{
 	
 	public Adult(String name, int age) {
