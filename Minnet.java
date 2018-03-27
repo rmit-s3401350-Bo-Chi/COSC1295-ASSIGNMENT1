@@ -1,4 +1,8 @@
 import java.util.Scanner;
+/**
+*
+*@author s3401350 bo chi
+*/
 
 
 	public class Minnet {
