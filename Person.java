@@ -1,4 +1,8 @@
 import java.util.ArrayList;
+/**
+*
+*@author s3365432  Qiaoxi LI 
+*/
 
 public class Person {
 	private String name;
