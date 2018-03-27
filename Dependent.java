@@ -1,4 +1,7 @@
-
+/**
+*
+*@author s3365432  Qiaoxi LI 
+*/
 public class Dependent extends Person{
 	
 	    public String name;
